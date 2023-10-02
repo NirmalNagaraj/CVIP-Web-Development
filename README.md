@@ -56,7 +56,8 @@ This is a simple clone of the Netflix page , which depicts the UI of the Netflix
     3. Check whether the table is created for User validation.
 
 4. **Setting Up the server**
-     Change this code with local db details
+
+   Change this code with local db details
      ```
      const connection = mysql.createConnection({
     host: 'localhost',
