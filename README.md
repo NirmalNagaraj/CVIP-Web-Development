@@ -35,6 +35,8 @@ This is a simple clone of the Netflix page , which depicts the UI of the Netflix
   1. Mysql
   2. Mysql Workbench (optional)
   3. Node js
+     
+# Usage
 
 1. **Clone the Repository:**
 
